@@ -1,1 +1,0 @@
-# 10.02_Typescript-Software-Testing
